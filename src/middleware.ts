@@ -29,5 +29,5 @@ export function middleware(req: Request) {
 
 // Apply middleware only to /create page
 export const config = {
-    matcher: "/create",
+    matcher: ["/create(.*)"],
 };
