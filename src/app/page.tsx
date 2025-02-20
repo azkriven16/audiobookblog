@@ -1,9 +1,9 @@
-import { Button } from "@/components/ui/button";
+import BlogListing from "@/components/BlogPost";
 
 export default function Home() {
     return (
         <div>
-            <Button>Click me</Button>
+            <BlogListing />
         </div>
     );
 }
