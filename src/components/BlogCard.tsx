@@ -25,7 +25,7 @@ export default function BlogCard(blog: BlogPost) {
             <CardHeader>
                 <div className="flex items-center justify-between mb-2">
                     <Badge variant="secondary" className="text-sm">
-                        {blog.category}
+                        {blog.category.toUpperCase()}
                     </Badge>
                     <div className="flex items-center text-sm text-muted-foreground">
                         <Eye className="w-4 h-4 mr-1" />
