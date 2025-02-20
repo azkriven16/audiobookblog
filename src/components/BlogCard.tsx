@@ -19,7 +19,7 @@ export default function BlogCard(blog: BlogPost) {
 
     return (
         <Card
-            className="flex flex-col cursor-pointer transition-all duration-300 hover:scale-[1.02] hover:shadow-lg"
+            className="flex flex-col cursor-pointer transition-all duration-300 hover:scale-[1.01] hover:shadow-lg"
             onClick={() => router.push(`/blog/${blog.id}`)}
         >
             <CardHeader>
