@@ -15,7 +15,7 @@ export default function BlogInfoPage() {
     const post = blogs.find((blog) => blog.id === 1)!;
 
     return (
-        <div className="max-w-4xl mx-auto p-6 animate-in fade-in slide-in-from-bottom-4 duration-500">
+        <div className="max-w-6xl mx-auto p-6 animate-in fade-in slide-in-from-bottom-4 duration-500">
             <Button
                 variant="ghost"
                 className="mb-6 flex items-center gap-2"
