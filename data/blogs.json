@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "title": "Pokémon Eternal Shadows: A Dark New Adventure",
+        "date": "2025-02-10",
+        "category": "ROM Hack Spotlight",
+        "views": 3200,
+        "author": {
+            "name": "TrainerX",
+            "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=100&h=100&fit=crop",
+            "role": "ROM Hack Reviewer"
+        },
+        "image": "https://images.unsplash.com/photo-1516822003754-cca485356ecb?w=800&h=400&fit=crop",
+        "excerpt": "Pokémon Eternal Shadows brings a brand-new region, a darker storyline, and Shadow Pokémon mechanics...",
+        "content": "In Pokémon Eternal Shadows, players explore the mysterious Eclipse Region, where Team Umbra seeks to harness the power of Shadow Pokémon for their own sinister goals. With an engaging storyline, new Fakémon, and a revamped battle system, this ROM hack brings an exciting twist to the classic Pokémon formula. Features include a dynamic day-night cycle, Mega Evolutions, and new regional variants. Fans of deep storytelling and challenging battles will find themselves immersed in this epic adventure!"
+    },
+    {
+        "id": 2,
+        "title": "Top 5 Pokémon ROM Hacks You Should Play in 2025",
+        "date": "2025-01-28",
+        "category": "Top Lists",
+        "views": 5100,
+        "author": {
+            "name": "HackMasterJoe",
+            "avatar": "https://images.unsplash.com/photo-1603415526960-f7e0328c72c1?w=100&h=100&fit=crop",
+            "role": "Pokémon ROM Expert"
+        },
+        "image": "https://images.unsplash.com/photo-1541542684-3d181fa4c69b?w=800&h=400&fit=crop",
+        "excerpt": "Want to experience the best fan-made Pokémon adventures? Check out our list of must-play ROM hacks this year!",
+        "content": "Pokémon ROM hacks continue to push the boundaries of creativity and innovation. In 2025, we’ve seen some of the most ambitious projects yet! Here are our top five picks: \n\n1. **Pokémon Unbound** – A feature-packed hack with deep storytelling and modern mechanics. \n2. **Pokémon Radical Red** – The ultimate challenge for hardcore fans. \n3. **Pokémon Gaia** – A beautifully crafted adventure with a rich lore. \n4. **Pokémon Fusion 3** – A unique game with creative Pokémon fusions. \n5. **Pokémon Sors** – A dark, lore-driven adventure with custom mechanics. \n\nEach of these hacks offers something special, whether it's difficulty, creativity, or nostalgia!"
+    },
+    {
+        "id": 3,
+        "title": "How to Patch and Play Pokémon ROM Hacks",
+        "date": "2025-02-05",
+        "category": "Guides",
+        "views": 2500,
+        "author": {
+            "name": "PokeHacker99",
+            "avatar": "https://images.unsplash.com/photo-1508919801845-fc2ae1bc2a28?w=100&h=100&fit=crop",
+            "role": "ROM Hacking Enthusiast"
+        },
+        "image": "https://images.unsplash.com/photo-1598551206558-14f4dc93f014?w=800&h=400&fit=crop",
+        "excerpt": "New to ROM hacking? Here’s a step-by-step guide on how to patch and play Pokémon fan games...",
+        "content": "If you’re new to Pokémon ROM hacks, getting started might seem overwhelming. But don’t worry! Here’s a simple guide:\n\n1. **Get a Base ROM** – Most hacks require a clean Pokémon FireRed or Emerald ROM.\n2. **Download a Patching Tool** – Use tools like Lunar IPS or Flips to apply the patch.\n3. **Apply the Patch** – Open your patching tool, select the base ROM and the hack patch, then apply!\n4. **Play on an Emulator** – Use VBA-M or MyBoy! to run the patched game.\n\nWith these simple steps, you’ll be diving into the world of fan-made Pokémon adventures in no time!"
+    },
+    {
+        "id": 4,
+        "title": "Exclusive Interview: The Creators of Pokémon Infinity",
+        "date": "2025-02-18",
+        "category": "Interviews",
+        "views": 1800,
+        "author": {
+            "name": "PixelMonDev",
+            "avatar": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=100&h=100&fit=crop",
+            "role": "ROM Hack Journalist"
+        },
+        "image": "https://images.unsplash.com/photo-1528460033278-a6ba57020470?w=800&h=400&fit=crop",
+        "excerpt": "We sat down with the minds behind Pokémon Infinity to talk about development, challenges, and future plans...",
+        "content": "Pokémon Infinity has taken the ROM hacking community by storm with its stunning pixel art and deep lore. In an exclusive interview, we spoke with the game’s lead developer, Alex ‘InfinityHack’ Johnson. \n\n'Our goal was to create a game that felt like a true Pokémon experience but with a fresh, modern twist. We focused on deep world-building, character-driven storytelling, and quality-of-life improvements that enhance gameplay.'\n\nThe game introduces a time-travel mechanic, allowing players to explore different eras of Pokémon history. It also features voice-acted cutscenes, a first for Pokémon ROM hacks. When asked about future updates, the team teased an upcoming expansion that will introduce new legendary Pokémon and side quests!"
+    }
+]
